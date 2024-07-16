@@ -1,0 +1,3 @@
+[submodule "DL-external/DL-external/osmium"]
+	path = DL-external/DL-external/osmium
+	url = git@github.com:cragson/osmium
